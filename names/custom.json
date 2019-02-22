@@ -9,11 +9,11 @@
   ],
   [
     "exit",
-    "exit.torproject.org"
+    "exit.torproject.com"
   ],
   [
     "gnu",
-    "gnu.gnunet.org"
+    "gnu.fsf.org"
   ],
   [
     "i2p",
@@ -21,14 +21,14 @@
   ],
   [
     "onion",
-    "onion.torproject.org"
+    "onion.torproject.com"
   ],
   [
     "tor",
-    "tor.torproject.org"
+    "tor.torproject.com"
   ],
   [
     "zkey",
-    "zkey.gnunet.org"
+    "zkey.fsf.org"
   ]
 ]
